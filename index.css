@@ -1,5 +1,5 @@
 body {
-    background-image: url('rabbit.jpg');
+    background-image: url('rabbit2.jpg');
     background-size: cover;  
     background-position: center; 
     background-repeat: no-repeat;
@@ -12,10 +12,15 @@ body {
     padding: 20px;
 }
 header {
+    background-image: url('rabbit.jpg');
+    background-size: cover;  
+    background-position: center; 
+    background-repeat: no-repeat;
     color: #ff6600;
     text-align: center;
     line-height: 2.1;
 }
+
 h1 {
     color: #ff6600;
     text-align: center;
