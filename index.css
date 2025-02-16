@@ -5,6 +5,22 @@ body {
     background-repeat: no-repeat; /* Prevents repeating */
 }
 
+body {
+    background-color: #fff5e6;
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #ff6600;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
 body::before {
     content: "";
     position: fixed;
