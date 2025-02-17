@@ -32,22 +32,17 @@ details {
     margin-bottom: 15px;
     border-radius: 5px;
 }
-
 summary {
-    font-size: 18px;
-    font-weight: bold;
-    color: #333;
-    cursor: pointer; 
-    padding: 10px;
-    background-color: #007bff;
+    background-color: rgba(0, 123, 255, 0.8);
     color: white;
+    font-weight: bold;
+    padding: 10px;
     border-radius: 5px;
-    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: 2px solid white; /* White border for separation */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Subtle shadow */
 }
 
-summary:hover {
-    background-color: white; 
-}
 
 
     
